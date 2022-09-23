@@ -6,9 +6,8 @@ A simple contributory thrift saving (ajo) application platform where a group of 
 
 - Spring boot
 - Hibernate JPA
-- Any RDBMS of your choice
-- Caching (nice to have) preferably-Ehcache
-- TDD(Test driven development) preferably
+- Postgres SQL
+- TDD(Test driven development)
 - Git
 - CI/CD 
 - OOP
